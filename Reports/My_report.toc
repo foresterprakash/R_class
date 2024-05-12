@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objectives}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Limitations}{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Methodology}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Study Area}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Data Collection}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Data Analysis}{9}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Result}{10}{section.3}%
+\contentsline {section}{\numberline {4}Discussion}{11}{section.4}%
+\contentsline {section}{\numberline {5}Conclusion and Recomendation}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Equations}{12}{subsection.5.1}%
