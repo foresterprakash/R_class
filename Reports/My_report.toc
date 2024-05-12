@@ -10,3 +10,4 @@
 \contentsline {section}{\numberline {4}Discussion}{11}{section.4}%
 \contentsline {section}{\numberline {5}Conclusion and Recomendation}{12}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Equations}{12}{subsection.5.1}%
+\contentsline {section}{Bibliography}{12}{section*.7}%
